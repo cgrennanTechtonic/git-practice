@@ -1,0 +1,39 @@
+.container {
+    width:53%;
+  }
+  
+  .card {
+    border: #ccc;
+    box-shadow: 1px 1px 2px 1px #80808075;
+    font-size: small;
+    display: inline-block;
+  }
+  
+  .card-wide {
+    width: 49%;
+  }
+  
+  .card-thin {
+    width: 24%;
+  }
+  
+  .card-img {
+    max-width: 100%;
+  }
+  
+  .card-body {
+    padding: .5rem;
+  }
+  
+  button {
+    width: 100%;
+    background: gray;
+    color: white;
+    padding: .5rem;
+  }
+  
+  /* 
+  card border: #ccc
+  button background: gray
+  card box-shadow: rgba(0,0,0,0.3)
+  */
